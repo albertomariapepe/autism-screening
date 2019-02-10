@@ -1,4 +1,4 @@
-# autism-screening
+# Autism Screening
 A neural network that classifies an adult as having autism or not. 
 
 Final accuracy of the network is approximately 98%, and its F1 score is 0.97.
